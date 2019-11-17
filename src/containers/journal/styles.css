@@ -1,0 +1,19 @@
+.journal-table__btn-wrapper {
+    display: flex;
+    justify-content: space-around;
+    vertical-align: middle;
+    flex-flow: row wrap;
+
+}
+
+.journal-table__btn-wrapper button {
+    margin: 5px 0;
+}
+
+.journal-table__progress_numbers {
+    text-align: center;
+}
+
+@media screen and (max-width: 500px) {
+
+}
