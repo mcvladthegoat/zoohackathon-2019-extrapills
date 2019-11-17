@@ -1,0 +1,15 @@
+.tmpl-table__btn-wrapper {
+    display: flex;
+    justify-content: space-around;
+    vertical-align: middle;
+    flex-flow: row wrap;
+
+}
+
+.tmpl-table__btn-wrapper button {
+    margin: 5px 0;
+}
+
+@media screen and (max-width: 500px) {
+
+}

@@ -1,0 +1,13 @@
+
+.template-list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+.template-list__card-item {
+    width: 20rem;
+    margin: 15px;
+    padding: 15px;
+    cursor: pointer;
+}
