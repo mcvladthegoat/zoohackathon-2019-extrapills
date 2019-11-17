@@ -63,7 +63,7 @@ const Settings = () => {
             </Form.Select>
           </BDiv>
             <BHr md="3" />
-            <Button primary lg block type="submit">Save settings</Button>
+            <Button primary lg block type="submit">{t('save_settings')}</Button>
           </Form>
         </Col>
       </Row>

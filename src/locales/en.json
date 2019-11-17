@@ -21,5 +21,10 @@
   "choose_template": "Choose template",
   "journal_table_edit": "Edit form",
   "journal_table_export": "Export",
-  "journal_table_header_progress": "Progress"
+  "journal_table_header_progress": "Progress",
+  "popover_edit_title": "Editing templates",
+  "popover_edit_content": "This feature is not ready. Stay up tuned.",
+  "create_hint": "You can use built-in microphone or upload audio records",
+  "select": "Select",
+  "close": "Close"
 }

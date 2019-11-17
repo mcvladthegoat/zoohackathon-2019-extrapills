@@ -7,6 +7,6 @@ import forms from './forms'
 export default combineReducers({
   auth,
   counter,
-  templates,
+  templ ates,
   forms
 })

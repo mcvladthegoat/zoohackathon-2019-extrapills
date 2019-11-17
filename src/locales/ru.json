@@ -21,5 +21,10 @@
   "choose_template": "Выберите шаблон",
   "journal_table_edit": "Изменить",
   "journal_table_export": "Экспортировать",
-  "journal_table_header_progress": "Прогресс"
+  "journal_table_header_progress": "Прогресс",
+  "popover_edit_title": "Редактирование шаблонов",
+  "popover_edit_content": "Данная функция пока не доступна. Ожидайте в ближайших обновлениях.",
+  "create_hint": "Вы можете использовать микрофон вашего устройства или загрузить готовые аудиозаписи",
+  "select": "Выбрать",
+  "close": "Отмена"
 }
